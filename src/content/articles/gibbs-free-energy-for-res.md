@@ -42,4 +42,8 @@ $H$ is enthalpy, and is defined as:
 
 $$ H = U + PV $$
 
-...
+$U$ is the Internal Energy, which is the kinetic energy of the molecules moving around and the potential energy holding the chemical bonds together. 
+
+$PV$ is the Pressure-Volume Work, which is the energy required to place a volume of fluid ($V$) into a reservoir that is under a certain pressure ($P$).
+
+So it means that Enthalpy $H$ is the total thermal and mechanical energy footprint of our fluid.

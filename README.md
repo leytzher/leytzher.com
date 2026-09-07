@@ -1,4 +1,4 @@
-# Field Notes
+# Leytzher Muro
 
 An Astro publication for Markdown articles with LaTeX, syntax-highlighted code, and interactive graphics.
 

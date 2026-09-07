@@ -1,8 +1,8 @@
 ---
 title: The shape of a small world
 description: What a simple simulation can teach us about patterns, patience, and the beauty of looking twice.
-author: Lea Thompson
-authorInitials: LT
+author: Leytzher Muro
+authorInitials: LM
 pubDate: 2025-05-14
 readTime: 8 min read
 tags:

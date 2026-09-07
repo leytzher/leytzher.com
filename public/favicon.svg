@@ -6,4 +6,7 @@
             path { fill: #FFF; }
         }
     </style>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+    <circle cx="64" cy="64" r="60" fill="#da6d52"/>
+    <text x="64" y="76" fill="#fff" font-family="Georgia, serif" font-size="42" font-weight="700" text-anchor="middle">LM</text>
 </svg>

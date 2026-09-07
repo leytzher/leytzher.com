@@ -7,7 +7,7 @@ const articles = defineCollection({
 		title: z.string(),
 		description: z.string(),
 		author: z.string(),
-		authorInitials: z.string().default('LT'),
+		authorInitials: z.string().default('LM'),
 		pubDate: z.coerce.date(),
 		readTime: z.string(),
 		tags: z.array(z.string()),

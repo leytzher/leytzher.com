@@ -8,7 +8,7 @@ readTime: 8 min read
 tags:
   - PVT & Thermodynamics
   - Julia
-status: published
+status: draft
 ---
 If you are a reservoir engineer, like me, you have probably been working with PVT and Equations of State for years. You know,  bubble points, dew points, flash calculations, Peng–Robinson, all the good stuff.
 

@@ -34,4 +34,12 @@ And, as it turns out, the basic idea is nowhere near as frightening as I had mad
 
 If you open Appendix A of Phase Behavior of Petroleum Reservoir Fluids by Pedersen, which, by the way, I recommend you read, you are greeted by the definition of Gibbs free energy:
 
+$$ G = H - TS $$
 
+It looks simple enough; except that now, to understand $G$, we apparently need to understand $H$ and $S$. The temperature part, I think I can handle.
+
+$H$ is enthalpy, and is defined as: 
+
+$$ H = U + PV $$
+
+...

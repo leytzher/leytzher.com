@@ -11,6 +11,7 @@ const articles = defineCollection({
 		pubDate: z.coerce.date(),
 		readTime: z.string(),
 		tags: z.array(z.string()),
+		status: z.enum(['draft', 'published']).default('draft'),
 	}),
 });
 

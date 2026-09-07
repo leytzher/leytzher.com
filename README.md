@@ -26,6 +26,7 @@ pubDate: 2025-05-14
 readTime: 6 min read
 tags:
   - Computing
+status: draft
 ---
 
 Inline math looks like $f(x) = \sin(x)$.
@@ -36,6 +37,8 @@ print("hello from a cell")
 ~~~
 
 Fenced code blocks are automatically styled and enhanced with run, output, and graphics controls. The current browser adapter demonstrates Python, Julia, JavaScript/D3, Common Lisp, and Quicklisp. Real Python, Julia, and Lisp execution can be connected to their respective runtimes without changing article syntax.
+
+Use `status: published` when a note should appear in the archive and receive a public `/articles/<slug>` URL. Leave it as `status: draft` while writing; drafts are excluded from the archive and are not generated as public routes.
 
 ## GitHub Pages
 
